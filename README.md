@@ -27,6 +27,25 @@ pip install -r requirements.txt
 # Run the program
 python [casino_tester.py](http://_vscodecontentref_/1)
 
+# Install the venv package if not already installed
+sudo apt install python3-venv
+
+# Create a virtual environment
+python3 -m venv ~/casino_venv
+
+# Activate the virtual environment
+source ~/casino_venv/bin/activate
+
+# Now install the packages (inside the activated environment)
+pip install requests rich schedule pandas numpy beautifulsoup4 fake_useragent websocket-client paramiko
+
+# Download the script to your current directory
+curl -o casino_tester.py https://raw.githubusercontent.com/youh4ck3dme/casino_tester/main/casino_tester.py
+
+# Run the script
+python casino_tester.py
+
+
 Disclaimer
 This tool is intended for educational purposes ONLY. Use on systems without permission is illegal.
 
