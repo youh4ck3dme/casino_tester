@@ -1,6 +1,4 @@
 #!/usr/bin/env python3
-# filepath: c:\Users\42195\OneDrive\Desktop\casino_tester.py
-
 """
 YOU HACKED ME - AI Tester Online Kasin
 Automaticky nastroj na testovanie online kasin
@@ -354,8 +352,4 @@ def main():
         console.print("[bold green]Program ukonceny.[/bold green]")
 
 if __name__ == "__main__":
-<<<<<<< HEAD
     main()
-=======
-    main()
->>>>>>> ce4bb8b508bd72407d1e3e78fa3dbaf6faf2808e
