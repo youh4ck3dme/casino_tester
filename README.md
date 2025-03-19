@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Casino Tester
 
 ## AI Tester Online Casino
@@ -29,3 +30,4 @@ python [casino_tester.py](http://_vscodecontentref_/1)
 
 Disclaimer
 This tool is intended for educational purposes ONLY. Use on systems without permission is illegal.
+>>>>>>> commit_id
