@@ -1,21 +1,21 @@
 # Casino Tester
 
-## AI Tester Online Kasín
+## AI Tester Online Casino
 
 ![YOU HACKED ME](https://img.shields.io/badge/YOU-HACKED%20ME-ff0000?style=for-the-badge)
 
-Automatický nástroj pre testovanie online kasín vyvinutý pre vzdelávacie účely.
-
+An automated tool for testing online casinos developed for educational purposes.
 ## Features
-- LIVE Casino Testovanie
-- Overenie aktuálnej IP
-- Detekcia & Spoofing fingerprintingu
-- Zachytávanie WebSocket komunikácie
-- Testovanie API exploitov
-- Analýza RNG systémov
-- Testovanie SQL/NoSQL Injection
+- LIVE Casino Testing
+- Current IP Verification
+- Fingerprinting Detection & Spoofing
+- WebSocket Communication Capture
+- API Exploit Testing
+- RNG System Analysis
+- SQL/NoSQL Injection Testing
 
 ## Installation
+
 ```bash
 # Clone the repository
 git clone https://github.com/youh4ck3dme/casino_tester.git
