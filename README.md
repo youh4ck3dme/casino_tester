@@ -1,6 +1,6 @@
-# Casino Tester
+# Ca$ino Te$ter
 
-## AI Tester Online Casino
+## AI Te$ter Online Ca$ino
 
 ![YOU HACKED ME](https://img.shields.io/badge/YOU-HACKED%20ME-ff0000?style=for-the-badge)
 
