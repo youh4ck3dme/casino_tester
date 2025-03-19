@@ -1,0 +1,9 @@
+requests
+rich
+schedule
+pandas
+numpy
+beautifulsoup4
+fake_useragent
+websocket-client
+paramiko
