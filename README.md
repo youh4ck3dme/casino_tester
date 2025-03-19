@@ -1,16 +1,19 @@
+<<<<<<< HEAD
 # Casino Tester
 
-AI-based security testing tool for online casino platforms.
+## AI Tester Online Casino
 
+![YOU HACKED ME](https://img.shields.io/badge/YOU-HACKED%20ME-ff0000?style=for-the-badge)
+
+An automated tool for testing online casinos developed for educational purposes.
 ## Features
-
 - LIVE Casino Testing
-- API Vulnerability Detection
+- Current IP Verification
+- Fingerprinting Detection & Spoofing
+- WebSocket Communication Capture
+- API Exploit Testing
 - RNG System Analysis
 - SQL/NoSQL Injection Testing
-- WebSocket Interception
-- IP Verification & Spoofing
-- Automated Reporting
 
 ## Installation
 
@@ -20,7 +23,11 @@ git clone https://github.com/youh4ck3dme/casino_tester.git
 cd casino_tester
 
 # Install dependencies
-python -m pip install -r requirements.txt
+pip install -r requirements.txt
 
-# Run the tool
-python casino_tester.py
+# Run the program
+python [casino_tester.py](http://_vscodecontentref_/1)
+
+Disclaimer
+This tool is intended for educational purposes ONLY. Use on systems without permission is illegal.
+>>>>>>> commit_id

@@ -354,4 +354,8 @@ def main():
         console.print("[bold green]Program ukonceny.[/bold green]")
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     main()
+=======
+    main()
+>>>>>>> ce4bb8b508bd72407d1e3e78fa3dbaf6faf2808e
